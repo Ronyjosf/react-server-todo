@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "ronyjosf",
+    "MONGO_PASSWORD": "ronyjosf",
+    "MONGO_DB": "RonyCluster"
+  }
+}
