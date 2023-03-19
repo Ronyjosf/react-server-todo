@@ -1,3 +1,4 @@
+reference : https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/
 # trouble shootings :
 
 1. Error: unable to get local issuer certificate while running yarn command
